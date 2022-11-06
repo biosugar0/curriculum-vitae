@@ -41,7 +41,7 @@
 
 - バックエンド開発
 - マイクロサービス開発
-- Infrastructure as Code(terraform)
+- Infrastructure as Code(Terraform)
 - クラウドインフラ構築(AWS)
 - Kubernetes(EKS)構築、運用
 - Site Relicability Engineering(SRE)
@@ -141,6 +141,10 @@
 ## 保有資格
 
 - ~~AWS Certified Solutions Architect – Associate (2019.10〜2022.10)~~
+
+## 副業する場合の希望契約形態
+
+- 準委任契約
 
 ## 受賞
 
