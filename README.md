@@ -53,7 +53,6 @@
 
 ## スキル
 
-<details>
 <summary><strong>プログラム言語</strong></summary>
 
 |言語  |経験年数|レベル              |
@@ -62,9 +61,6 @@
 |Bash  |5年〜   |実務で問題なく使える|
 |Python|2年〜   |少し使える          |
 
-</details>
-
-<details>
 <summary><strong>その他利用経験</strong></summary>
 
 |名前          |経験年数|レベル              |
@@ -76,7 +72,6 @@
 |Vim           |7年〜   |人に教えられる      |
 
 等
-</details>
 
 ## 職務経歴
 
