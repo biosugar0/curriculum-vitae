@@ -41,6 +41,7 @@
 
 - バックエンド開発
 - マイクロサービス開発
+- ドメイン駆動開発
 - Infrastructure as Code(Terraform)
 - クラウドインフラ構築(AWS)
 - Kubernetes(EKS)構築、運用
