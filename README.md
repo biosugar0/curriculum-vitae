@@ -165,3 +165,4 @@
 - [トイルの計測とトラッキングを始めました](https://tech.smartshopping.co.jp/measure-toil)
 - [Telepresence2へ移行するためにやったこと](https://tech.smartshopping.co.jp/to-telepresence2)
 - [SREチームの再立ち上げとミッション、ビジョン、バリューを作った話](https://tech.smartshopping.co.jp/ss-new-sre)
+- [SREチームはDevOpsに向き合い、開発を加速させる](https://github.com/biosugar0/curriculum-vitae.git)
