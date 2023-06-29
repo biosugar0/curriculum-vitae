@@ -17,6 +17,7 @@
 | 媒体    | リンク                                                         |
 | ------- | -------------------------------------------------------------- |
 | blog    | [biosugar0.com](http://biosugar0.com)                          |
+| zenn    | [biosugar0.com](https://zenn.dev/biosugar0)                    |
 | twitter | [https://twitter.com/biosugar0](https://twitter.com/biosugar0) |
 | mail    | [Gmail](biosugar0@gmail.com)                                   |
 
