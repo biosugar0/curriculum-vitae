@@ -68,8 +68,8 @@
 | Kubernetes     | 4 年〜   |
 | Docker         | 4 年〜   |
 | terraform      | 3 年〜   |
-| GitHub Actions | 1 年〜   |
-| Datadog        | 2 年〜   |
+| GitHub Actions | 2 年〜   |
+| Datadog        | 3 年〜   |
 | Vim            | 7 年〜   |
 
 等
@@ -113,9 +113,24 @@
 - トイルの削減
 - 詳細設計ドキュメントの標準化
 - SRE チームの MVV 策定
-- 開発プラットフォーム開発
-- DevOps 推進施策
-- 可観測性の強化
+- インフラ変更のセルフサービス化
+- AWS コスト最適化
+- 開発生産性の向上を主導し、開発生産性が優れたエンジニア組織を表彰する Findy Team+ Award 2023 を受賞
+  - [IoT 在庫管理・工程 DX SaaS の【スマートショッピング】、Findy Team+ Award 2023 を受賞](https://prtimes.jp/main/html/rd/p/000000075.000026042.html)
+  - プルリクエストの細分化のため、変更行数が多い場合警告を行う仕組みを作成
+  - デプロイ頻度の改善のため、ブランチ戦略の見直しとデプロイフローの簡略化、自動化
+  - 課題発見と改善のための定例会のファシリテーション
+- 可観測性の強化を目的として構造化ログを導入。共通パッケージの開発を行った
+- GitHub Copilot for Business 導入
+- OpenAI の組織アカウント整備
+- k8s ミドルウェアの GitOps 管理
+- 社内 LLM Slack Bot の開発
+- Node Local DNS Cache の導入
+- サーバーリソースの最適化。Pod のリソース設定を Datadog のメトリクスを元に再設定
+- LLM を用いたミーティング議事録の自動生成
+- 新規マイクロサービスデプロイ設定のコード化
+- Datadog monitor, metrics の terraform 化
+- 時系列データベースを利用したインフラ設計・検証
 
 ## 自己 PR
 
