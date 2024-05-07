@@ -14,12 +14,12 @@
 
 **木村 優斗 | Kimura Yuto**
 
-| 媒体    | リンク                                                         |
-| ------- | -------------------------------------------------------------- |
-| blog    | [biosugar0.com](http://biosugar0.com)                          |
-| zenn    | [biosugar0.com](https://zenn.dev/biosugar0)                    |
-| twitter | [https://twitter.com/biosugar0](https://twitter.com/biosugar0) |
-| mail    | [Gmail](biosugar0@gmail.com)                                   |
+| 媒体 | リンク                                                         |
+| ---- | -------------------------------------------------------------- |
+| blog | [biosugar0.com](http://biosugar0.com)                          |
+| zenn | [biosugar0.com](https://zenn.dev/biosugar0)                    |
+| x    | [https://twitter.com/biosugar0](https://twitter.com/biosugar0) |
+| mail | [Gmail](biosugar0@gmail.com)                                   |
 
 ## 学歴・職歴
 
@@ -46,6 +46,7 @@
 - クラウドインフラ構築(AWS)
 - Kubernetes(EKS)構築、運用
 - Site Relicability Engineering(SRE)
+- LLM を活用したアプリケーション開発
 
 ### その他
 
@@ -56,10 +57,12 @@
 
 <summary><strong>プログラム言語</strong></summary>
 
-| 言語 | 経験年数 |
-| ---- | -------- |
-| Go   | 4 年〜   |
-| Bash | 5 年〜   |
+| 言語       | 経験年数 |
+| ---------- | -------- |
+| Go         | 4 年〜   |
+| Bash       | 5 年〜   |
+| Python     | 2 年〜   |
+| TypeScript | 1 年〜   |
 
 <summary><strong>その他利用経験</strong></summary>
 
@@ -131,6 +134,7 @@
 - 新規マイクロサービスデプロイ設定のコード化
 - Datadog monitor, metrics の terraform 化
 - 時系列データベースを利用したインフラ設計・検証
+- Google Drive と連携する LLM による議事録生成システムの開発
 
 ## 自己 PR
 
@@ -139,7 +143,7 @@
 
 私はエンジニアとして新しく何かを作ることも好きですが、その本質は運用にあると思っています。
 そして SRE やプラットフォームエンジニアリングのような運用にフォーカスしたエンジニアリングが、 Google やメルカリのような大きな企業だけのものではなくスタートアップでこそ威力を発揮するということを示したいため、よりビジネスに効果的なスマートな構成、アプローチはどういうものなのかを探求していきたいです。
-スタートアップにおいて、信頼性は高頻度な価値提供とシステムの安定性によって構成されるというポリシーを持っており、現職ではバックエンド実装も把握しているSREとしてインフラからサーバーのチューニング、開発体験の向上、組織の生産性向上まで幅広く活動しています。
+スタートアップにおいて、信頼性は高頻度な価値提供とシステムの安定性によって構成されるというポリシーを持っており、現職ではバックエンド実装も把握している SRE としてインフラからサーバーのチューニング、開発体験の向上、組織の生産性向上まで幅広く活動しています。
 
 ## 得意なこと
 
