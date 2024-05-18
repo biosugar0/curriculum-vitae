@@ -9,3 +9,4 @@
 # 📝 職務経歴書
 
 - [Markdown 版](https://github.com/biosugar0/curriculum-vitae/blob/main/docs/README.md?plain=1)
+- [サイト版](https://biosugar0.github.io/curriculum-vitae/)
