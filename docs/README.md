@@ -113,11 +113,10 @@
 - GitHub Copilot for Business 導入、OpenAI の組織アカウント整備
 - k8s ミドルウェアの GitOps 管理、社内 LLM Slack Bot 開発
 - Node Local DNS Cache の導入、サーバーリソースの最適化
-- LLM を用いたミーティング議事録の自動生成
 - 新規マイクロサービスデプロイ設定のコード化
 - Datadog の監視設定の terraform 化
 - EKS アップデートの簡略化
-- Google Drive と連携する LLM による議事録生成システムの開発
+- Google Drive と連携する LLM による議事録自動生成システムの開発
 
 ## 自己 PR
 
